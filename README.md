@@ -1,3 +1,15 @@
+# This moved
+
+Everything here now lives inside **[AIPM-Complete-Setup](https://github.com/BrettZuke/AIPM-Complete-Setup)**, in `04-deliver/form-templates`.
+
+Clone that instead. It is kept up to date and scanned before every push; this copy is not.
+
+```bash
+git clone https://github.com/BrettZuke/AIPM-Complete-Setup.git
+```
+
+---
+
 # AIPM Student Form Templates
 
 Six battle-tested Typeform templates you can deploy on day one of running your
